@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="eng">
+<title> Why Border Collies are awesome! </title>
+<p> Border Collies are one of the smartest breeds of dog, and they are very easy to train. </p>
+<h1> I have a 3 year old Border Collie named Luca (rescue dog), and he is the best! </h1>
+<h3> He needs a LOT of brushing... I can make an entire other dog with the fur I brush out. </h3>
+<h6> He can be very needy at times, when he doesn't "get enough attention", according to him. </h6>
+<main> I'm a big believer in rescuing dogs, as opposed to (potentially) spending thousands of dollars buying one </main>
+<a href="BaileyandLuca.jpeg">
+<img alt="BaileyandLuca">
+<footer> Rachel Kirker Rhslate@aol.com </footer>
+</html>
