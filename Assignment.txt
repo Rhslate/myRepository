@@ -23,15 +23,7 @@
 		If winter temperatures return, it may delay growth. The snow is helpful, discouraging additional growth and protecting the foliage from extreme cold. </p>
 	</blockquote>
    </nav>
-     <div style=width="560" height="315"> 
-	 src="https://www.youtube.com/embed/KQdCKM3_5EY" 
-	 <title="YouTube video player"</title>
-	 wmode="transparent"
-	 type="video/mp4"
-	 allow="autoplay"
-	 allowfullscreen
-	 title=Funny cat and dog videos
-	 </div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/KQdCKM3_5EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 <footer>Rachel Kirker Rhslate@aol.com</footer>
 </html>
