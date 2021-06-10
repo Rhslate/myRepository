@@ -1,0 +1,23 @@
+table {
+	border: 1px solid magenta;
+}
+
+a {
+	background-color: pink;
+	transition: background-color .10s;
+}
+
+a:hover {
+	background-color: slateblue;
+}
+
+tr, td {
+	background-color: white;
+	color: lightcyan;
+}
+
+tr, th {
+	background-color: lightblue;
+	color: purple;
+}
+
