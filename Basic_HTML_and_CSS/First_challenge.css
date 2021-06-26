@@ -1,0 +1,137 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+img {
+    filter: blur(2.5px);
+    border: 5px solid rgb(126, 15, 141);
+    border-radius: 30px;
+  }
+
+img {
+  text: white;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    margin: 20px auto;
+    color: white;
+  }
+
+.bottom-right {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+
+footer {
+    text-align: center;
+    font-style: bold;
+    font-size: large;
+}
+
+table { 
+        border: 5px solid purple;
+        padding: 15px;
+        background-color: rgb(248, 175, 224);
+    }
+
+h1 {
+    font-style: italic;
+    background-color: salmon;
+}
+
+.navbar {
+    background-color: rgb(157, 233, 233);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar:hover {
+    text: rgb(229, 147, 198);
+    animation-duration: 10s;
+    background-color: rgb(245, 137, 203);
+}
+
+a:link {
+    background-color: rgb(138, 190, 224);
+  }
+
+tr {
+    height: 50px;
+    width: 100px;
+    font-size: large;
+    font-style: italic;
+    color: blue;
+}
+
+.column {
+    float: left;
+    width: 15%;
+    height: auto;
+
+  }
+
+
+.row {
+    color: crimson;
+    font-size: large;
+    height: auto;
+    width: auto;
+}
+
+p:hover {
+    color: rgb(245, 16, 157);
+}
+
+.container {
+    position: relative;
+    width: 50%;
+  }
+  
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+
+  
+.overlay {
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #e790dc;
+  }
+  
+  
+.container:hover .overlay {
+    opacity: 1;
+  }
+
+  
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+

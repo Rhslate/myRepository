@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px) {
+  html {
+    background-color: rgb(216, 144, 238);
+  }
+}
+
+h1 {
+      background-color: rgb(24, 106, 153);
+      font-style: italic;
+    }
+  
