@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <p id="myFavoriteMovie"></p>
+
+    <script>
+     /*JavaScript dictionary object*/
+     var myFavoriteMovie = {title: "Mrs. Doubtfire", genre: "comedy", actor: "Robin Williams"};
+        /*convert JavaScript objects to string format */
+        var JSONstring = JSON.stringify(myFavoriteMovie);
+        document.getElementById("myFavoriteMovie").innerHTML = JSONstring;
+        
+    </script>
+    </body>
+</html>
+
